@@ -9,8 +9,8 @@
 
 ## Overview
 
-![Screenshot](./src/assets/scr (1).png)
-![Screenshot](./src/assets/scr (2).png)
+![Screenshot](./src/assets/scr%20(2).png)
+![Screenshot](./src/assets/scr%20(1).png)
 
 This is a modern and interactive **Typing Speed Test web application** built with React.
 It allows users to test and improve their typing speed and accuracy with customizable time limits and real-time performance tracking.
@@ -32,12 +32,12 @@ It allows users to test and improve their typing speed and accuracy with customi
 - Performance results with detailed statistics
 - Responsive and modern UI design
 - Smooth transitions and hover effects
-
-– Настраиваемые временные ограничения для тестов печати
-– Отслеживание точности набора в реальном времени
-– Подробная статистика результатов
-– Адаптивный и современный дизайн
-– Плавные переходы и эффекты при наведении
+-----
+- Настраиваемые временные ограничения для тестов печати
+- Отслеживание точности набора в реальном времени
+- Подробная статистика результатов
+- Адаптивный и современный дизайн
+- Плавные переходы и эффекты при наведении
 
 ## Contact
 
