@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+/* Background gradient */
+body {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+  color: #e0e7ff;
+}
+
+/* Timer styling with cyan color */
+.timer {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #06b6d4;
+  text-shadow: 0 0 10px rgba(6, 182, 212, 0.5);
+  margin-top: 2rem;
+  padding: 1rem 2rem;
+  background: rgba(6, 182, 212, 0.1);
+  border: 2px solid #06b6d4;
+  border-radius: 0.75rem;
+}
+
+/* Text display area */
+.text-display {
+  padding: 2rem;
+  background: rgba(15, 23, 42, 0.8);
+  border-radius: 0.75rem;
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  backdrop-filter: blur(10px);
+}
+
+/* Typing container */
+.typing-container {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  margin: 2rem 0;
+  padding: 2rem;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(59, 130, 246, 0.2);
+  border-radius: 0.5rem;
+}
+
+/* Character colors */
+.char-correct {
+  color: #10b981;
+}
+
+.char-incorrect {
+  color: #ef4444;
+}
+
+/* Button styling */
+button {
+  font-family: inherit;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: none;
+}
+
+button:focus {
+  outline: none;
+}
+

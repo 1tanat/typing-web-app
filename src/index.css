@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-mono: "JetBrains Mono", monospace;
+  --color-mint-500: oklch(0.72 0.11 178);
+}
+
+html, body {
+  font-family: var(--font-mono);
+  color: var(--color-blue-400);
+  min-height: 100vh;
+  @apply grid place-items-center self-center h-screen;
+}
